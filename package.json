@@ -1,0 +1,14 @@
+{
+   "scripts": {
+      "build": "vite build",
+      "preview": "vite preview"
+   },
+   "dependencies": {
+      "gh-pages": "^6.3.0",
+      "swiper": "^11.2.4"
+   },
+   "homepage": "https://qdt0650.github.io/gsap_study/",
+   "devDependencies": {
+      "vite": "^6.1.0"
+   }
+}
